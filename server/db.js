@@ -5,3 +5,4 @@ mongoose.connect("mongodb+srv://test:test123@cluster0.u5dssrw.mongodb.net/batchD
     .catch(err => console.log("ERROR:", err));
 
 module.exports = mongoose;
+// DB logic added
